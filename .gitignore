@@ -1,0 +1,9 @@
+freyja.jpg
+full.*
+*.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+
